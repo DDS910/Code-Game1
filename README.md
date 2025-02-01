@@ -19,7 +19,7 @@ Built using Unity, this game features interactive environments and puzzle mechan
 
 ## Game Link
 Here is the link to try out the Fire Buster game: https://github.com/DDS910/Project-Game1.git
-or 
+or you can download in itch.io : https://dds80.itch.io/pedro-the-shadow
 
 ##Contact
 - Email : sutantodenis@gmail.com
