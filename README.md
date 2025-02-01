@@ -14,7 +14,6 @@ Built using Unity, this game features interactive environments and puzzle mechan
 ## Technologies Used
 - Engine : Unity 2022.3.47f1
 - Programming Language: C#
-- Particle System: Used for simulating environmental effects.
 - Audio System: Uses Unity's audio components to create a dynamic sound experience.
 
 ## Game Link
