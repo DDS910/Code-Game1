@@ -1,10 +1,10 @@
-#Pedro the Shadow King
+# Pedro the Shadow King
 
 This project is an action-adventure game following the journey of Pedro, a legendary hero, as he attempts to save the kidnapped princess and protect his village.
 This project is an action-adventure game following the journey of Pedro, a legendary hero, as he attempts to save the kidnapped princess and protect his village. 
 Built using Unity, this game features interactive environments and puzzle mechanics, challenging players to avoid traps and collect keys to progress to the next level.
 
-##Project Structure
+## Project Structure
 - Assets/: Contains 2D art assets, textures, animations, audio, and other visual elements.
 - Scripts/: Contains the main C# scripts that control game mechanics, such as player controls, trap, key collection, and level progression.
 - Scenes/: Contains scene files that structure the game's levels and environments.
